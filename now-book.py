@@ -30,7 +30,7 @@ class Main():
     def read_camera_list(self, csv_path_):
         cameras = []
         with open(csv_path_, newline='') as csv_file:
-            reader = csv.reader(csv_file, delimiter=';', quotechar='"')
+            reader = csv.reader(csv_file, delimiter=',', quotechar='"')
             for row in reader:
                 if row.__len__() == 4:
                     camera = Camera(row[0], row[1], row[2], row[3])
@@ -64,11 +64,12 @@ class Main():
                 asyncio.TimeoutError,
                 aiohttp.errors.HttpProcessingError,
                 ValueError) as exc:
-            print('Error: {} {}'.format(exc, camera_.location))
+            print('Error loading image from {} - {}'.format(camera_.location, camera_.url))
+            exit()
         return None
 
     def generate_book(self, now_, cameras_):
-        page_width = 250
+        page_width = 260
         page_height = 200
         text_large = 15
         text_regular = 11
@@ -95,7 +96,11 @@ class Main():
         for c in cameras_:
             pdf.add_page()
             pdf.add_page()
-            w, h = self.get_prop_size(c.file, 0.7 * page_width, 0.6 * page_height)
+            try:
+                w, h = self.get_prop_size(c.file, 0.7 * page_width, 0.6 * page_height)
+            except (OSError) as exc:
+                print('Error loading image from {} - {}'.format(c.location, c.url))
+                return
             pdf.image(c.file, 0.5 * (page_width - w), 0.4 * (page_height - h), w, h)
             pdf.cell(0, 0.85 * page_height, '', 0, 1, 'C')
             pdf.cell(0, 0.5 * text_regular, c.location_str, 0, 1, 'C')

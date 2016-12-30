@@ -1,24 +1,24 @@
-Los Angeles;34.0536;-118.243;http://abclocal.go.com/three/kabc/webcam/web2-1.jpg
-Olso;59.9026;10.7416;http://www.ohv.oslo.no/filestore/webcam/vippetangen.jpg
-Klein-Aus Vista;-26.6741;16.2522;http://weather.namsearch.com/aus/auscam.jpg?1482939280669
-Hell-Ville;-13.2511;48.1906;http://andilanaresort.com/MOBOTIX/piscina.jpg
-Arunachala;12.2402;79.0542;http://www.arunachala-live.com/live/video.jpg
-Reykjavík;64.1538;-21.9471;http://cam.shipbrokers.is/jpg/image.jpg
-Kansas City;39.0442;-94.4392;http://dnr.mo.gov/env/esp/aqm/images/KCCamera.jpg
-Lemgo;52.0279;8.9012;http://www.lemgo.de/webcam/aktuell.jpg
-Ny-Ålesund;78.9251;11.9222;http://ivslive.obs.u-bordeaux1.fr/images/webcam/NYALES20.jpg?cache=nocache
-Sylt;54.9081;8.2992;http://in-5907hd.alj1vz7wmhs1rp4s.myfritz.net/tmpfs/auto.jpg?usr=guest&pwd=guest&1482786345832
-Petropavlovsk-Kamchatskiy;53.0670;158.6071;http://www.emsd.ru/video/Blvd/img_1.jpg
-Buenes Aires;-34.6033;-58.3816;http://190.104.250.226/jpg/image.jpg
-Honolulu;21.2741;-157.8239;http://66.175.76.125/jpg/image.jpg
-Paralia Sikias;40.0459;23.9845;http://www.camping-melissi.gr/images/melissicam/snap/webcam.jpg
-Birmingham;33.4897;-86.7991;http://www.gowbrc.com/wbrc/weather/webcams/TCAM/image.jpg
-Talloires;45.8384;6.2129;http://www.talloires-lac-annecy.com/fluxwebcam/image.jpg
-Obersee;47.0871;9.0145;http://webcams.gl3.ch/tbgn/obersee.jpg
-Spring Creek;40.7001;-115.5351;http://icons.wunderground.com/webcamramdisk/r/u/RubySlipper/1/current.jpg
-Tokeland;46.7479;-124.0861;http://icons.wunderground.com/webcamramdisk/d/e/deano511/1/current.jpg
-East St Paul;49.983;-97.0021;http://icons.wunderground.com/webcamramdisk/f/l/Flurry/1/current.jpg
-Fukushima-ken;37.2269;140.4333;http://www.pref.fukushima.jp/kukouoffice/photo3.jpg
-Kuala Krai;5.5165;102.2011;http://kualakrai.dyndns.org/axis-cgi/jpg/image.cgi
-Novomoskovsk;54.0114;38.2901;http://sat01.probkiizokna.ru/prb/getsnapshot.php?s=3&id=5192&q=1482938121576
-Otradnoye;59.7739;30.7946;https://de106.extcam.com/preview/live?d=de106.extcam.com&server=100-79f60d15186c09c75c6fc94f9e44fc6f&q=2&camera=65536&u=100000216077&public=1&token=4f1796bc8aea6cd9493de299a3265a77
+Los Angeles,34.0536,-118.243,http://abclocal.go.com/three/kabc/webcam/web2-1.jpg
+Oslo,59.9026,10.7416,http://www.ohv.oslo.no/filestore/webcam/vippetangen.jpg
+Klein-Aus Vista,-26.6741,16.2522,http://weather.namsearch.com/aus/auscam.jpg?1482939280669
+Hell-Ville,-13.2511,48.1906,http://andilanaresort.com/MOBOTIX/piscina.jpg
+Arunachala,12.2402,79.0542,http://www.arunachala-live.com/live/video.jpg
+Reykjavík,64.1538,-21.9471,http://cam.shipbrokers.is/jpg/image.jpg
+Kansas City,39.0442,-94.4392,http://dnr.mo.gov/env/esp/aqm/images/KCCamera.jpg
+Lemgo,52.0279,8.9012,http://www.lemgo.de/webcam/aktuell.jpg
+Ny-Ålesund,78.9251,11.9222,http://ivslive.obs.u-bordeaux1.fr/images/webcam/NYALES20.jpg?cache=nocache
+Sylt,54.9081,8.2992,http://in-5907hd.alj1vz7wmhs1rp4s.myfritz.net/tmpfs/auto.jpg?usr=guest&pwd=guest&1482786345832
+Petropavlovsk-Kamchatskiy,53.0670,158.6071,http://www.emsd.ru/video/Blvd/img_1.jpg
+Buenes Aires,-34.6033,-58.3816,http://190.104.250.226/jpg/image.jpg
+Honolulu,21.2741,-157.8239,http://66.175.76.125/jpg/image.jpg
+Paralia Sikias,40.0459,23.9845,http://www.camping-melissi.gr/images/melissicam/snap/webcam.jpg
+Birmingham,33.4897,-86.7991,http://www.gowbrc.com/wbrc/weather/webcams/TCAM/image.jpg
+Talloires,45.8384,6.2129,http://www.talloires-lac-annecy.com/fluxwebcam/image.jpg
+Obersee,47.0871,9.0145,http://webcams.gl3.ch/tbgn/obersee.jpg
+Spring Creek,40.7001,-115.5351,http://icons.wunderground.com/webcamramdisk/r/u/RubySlipper/1/current.jpg
+Tokeland,46.7479,-124.0861,http://icons.wunderground.com/webcamramdisk/d/e/deano511/1/current.jpg
+East St Paul,49.983,-97.0021,http://icons.wunderground.com/webcamramdisk/f/l/Flurry/1/current.jpg
+Fukushima-ken,37.2269,140.4333,http://www.pref.fukushima.jp/kukouoffice/photo3.jpg
+Kuala Krai,5.5165,102.2011,http://kualakrai.dyndns.org/axis-cgi/jpg/image.cgi
+Novomoskovsk,54.0114,38.2901,http://sat01.probkiizokna.ru/prb/getsnapshot.php?s=3&id=5192&q=1482938121576
+Otradnoye,59.7739,30.7946,https://de106.extcam.com/preview/live?d=de106.extcam.com&server=100-79f60d15186c09c75c6fc94f9e44fc6f&q=2&camera=65536&u=100000216077&public=1&token=4f1796bc8aea6cd9493de299a3265a77
