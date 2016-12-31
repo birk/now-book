@@ -16,4 +16,4 @@ Usage
 Shop
 ----
 
-A collection of editions is available at [issuu](https://issuu.com/birkweiberg).
+A collection of the first 12 editions is available at [now.fieldsaintframes.net](http://now.fieldsaintframes.net).
